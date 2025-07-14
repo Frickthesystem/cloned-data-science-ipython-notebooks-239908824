@@ -1,0 +1,12 @@
+# data-science-ipython-notebooks - Customized
+
+> Cloned and customized from [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+
+**Why this project is impressive:** Comprehensive collection covering entire ML pipeline from data preprocessing to deployment
+
+**Tech Stack:** TensorFlow, Keras, scikit-learn, pandas, NumPy, matplotlib, Spark, Hadoop
+
+**Key Features:** End-to-end data science workflows, big data processing
+
+---
+
